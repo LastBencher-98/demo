@@ -1,0 +1,18 @@
+[
+  {
+    "rfpid": "rfp-1",
+    "date": "2020-02-06",
+    "practice-name": "ADM",
+    "customer-title": "Amazon",
+    "rfp-owner": "Vishal",
+    "rfp-name": "Some Important project"
+  },
+  {
+    "rfpid": "rfp-2",
+    "date": "2020-02-07",
+    "practice-name": "ADM",
+    "customer-title": "Microsoft",
+    "rfp-owner": "Varshith",
+    "rfp-name": "Again some Important project"
+  }
+]
