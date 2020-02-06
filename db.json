@@ -1,5 +1,4 @@
-{
-  "rfps":[
+[
   {
     "rfpid": "rfp-1",
     "date": "2020-02-06",
@@ -25,4 +24,4 @@
     "rfp_name": "Sample project name"
   }
 ]
-}
+
