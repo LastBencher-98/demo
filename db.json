@@ -2,17 +2,25 @@
   {
     "rfpid": "rfp-1",
     "date": "2020-02-06",
-    "practice-name": "ADM",
-    "customer-title": "Amazon",
-    "rfp-owner": "Vishal",
-    "rfp-name": "Some Important project"
+    "practice": "ADM",
+    "customer": "Amazon",
+    "rfp_owner": "Vishal",
+    "rfp_name": "Some Important project"
   },
   {
     "rfpid": "rfp-2",
     "date": "2020-02-07",
-    "practice-name": "ADM",
-    "customer-title": "Microsoft",
-    "rfp-owner": "Varshith",
-    "rfp-name": "Again some Important project"
+    "practice": "ADM",
+    "customer": "Microsoft",
+    "rfp_owner": "Varshith",
+    "rfp_name": "Again some Important project"
+  },
+  {
+    "rfpid": "rfp-3",
+    "date": "2020-01-07",
+    "practice": "DI",
+    "customer": "Google",
+    "rfp_owner": "Rishabh",
+    "rfp_name": "Sample project name"
   }
 ]
